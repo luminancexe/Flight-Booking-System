@@ -1,0 +1,3 @@
+public enum FlightStatus {
+    ARRIVED, CANCELLED, DELAYED, DEPARTED, SCHEDULED
+}
